@@ -30,13 +30,7 @@ Para resolver el sistema de ecuaciones diferenciales que modelan la evolución d
 
 Las ecuaciones diferenciales utilizadas en este proyecto son:
 
-\[
-\frac{dT}{dt} = -0.07(T - T_{amb}) + 0.1H
-\]
-
-\[
-\frac{dH}{dt} = -0.03H + 0.05(20 - T)
-\]
+[![Logo8](https://github.com/Cobain21Jose/METODOS-NUMERICOS---Simulaci-n-de-Evoluci-n-Clim-tica-Modelo-de-Temperatura-y-Humedad-Relativa/blob/main/imagen_2024-06-23_151310460.png)](https://github.com/Cobain21Jose/METODOS-NUMERICOS---Simulaci-n-de-Evoluci-n-Clim-tica-Modelo-de-Temperatura-y-Humedad-Relativa)
 
 Donde:
 - \(T\) es la temperatura en grados Celsius.
@@ -105,6 +99,13 @@ Mac os Sonoma 14.5
 
 ## Grafica de Python
 [![Logo9](https://github.com/Cobain21Jose/METODOS-NUMERICOS---Simulaci-n-de-Evoluci-n-Clim-tica-Modelo-de-Temperatura-y-Humedad-Relativa/blob/main/imagen_2024-06-23_153257729.png)](https://github.com/Cobain21Jose/METODOS-NUMERICOS---Simulaci-n-de-Evoluci-n-Clim-tica-Modelo-de-Temperatura-y-Humedad-Relativa)
+
+## Museos y Archivos
+Descripción: Museos y archivos necesitan controlar estrictamente la temperatura y la humedad para preservar obras de arte y documentos históricos. Temperaturas alrededor de los 23 grados Celsius son comunes en estos entornos.
+Aplicación: Simulaciones ayudan a prever y mantener las condiciones necesarias para la conservación de piezas valiosas.
+
+## Conclusión
+En este ejercicio, podemos observar cómo evolucionan la temperatura y la humedad relativa en un entorno específico a lo largo de un día. Utilizando el método de Euler, podemos resolver el sistema de ecuaciones diferenciales y predecir los cambios en el clima. Los resultados muestran una disminución inicial de la humedad relativa, seguida de un aumento gradual. La temperatura aumenta rápidamente al inicio y luego se estabiliza alrededor de los 23°C. Este tipo de análisis es crucial para entender y prever condiciones climáticas en distintos entornos.
 
 # Explicacion en YouTube
 [![Logo9](https://github.com/Cobain21Jose/METODOS-NUMERICOS---Simulaci-n-de-Evoluci-n-Clim-tica-Modelo-de-Temperatura-y-Humedad-Relativa/blob/main/youtube.png)](https://github.com/Cobain21Jose/METODOS-NUMERICOS---Simulaci-n-de-Evoluci-n-Clim-tica-Modelo-de-Temperatura-y-Humedad-Relativa)
