@@ -24,6 +24,11 @@ Mac os Sonoma 14.5
 
 [![Logo3](https://github.com/Cobain21Jose/METODOS-NUMERICOS---Simulaci-n-de-Evoluci-n-Clim-tica-Modelo-de-Temperatura-y-Humedad-Relativa/blob/main/macossonoma.png)](https://www.apple.com/mx/macos/sonoma/)
 
+## Hadware
+<p align="center">
+  <img src="hadware.png" alt="Hadware del equipo">
+</p>
+
 ## Instalación
 
 1. Clona el repositorio:
