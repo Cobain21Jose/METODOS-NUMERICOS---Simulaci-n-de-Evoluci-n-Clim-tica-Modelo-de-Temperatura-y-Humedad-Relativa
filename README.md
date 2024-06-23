@@ -19,7 +19,9 @@ Este proyecto simula la evolución de la temperatura y la humedad relativa en un
 - Bibliotecas: numpy, matplotlib
 
 ## Sistema Utilizado para la creacion de este proyecto
-- Mac os Sonoma 14.5
+
+Mac os Sonoma 14.5
+
 [![Logo3](https://github.com/Cobain21Jose/METODOS-NUMERICOS---Simulaci-n-de-Evoluci-n-Clim-tica-Modelo-de-Temperatura-y-Humedad-Relativa/blob/main/macossonoma.png)](https://www.apple.com/mx/macos/sonoma/)
 
 ## Instalación
