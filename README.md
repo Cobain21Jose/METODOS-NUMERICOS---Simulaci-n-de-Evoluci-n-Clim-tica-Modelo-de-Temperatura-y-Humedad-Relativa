@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="tesjo.png" alt="Logo de Ing en Sistemas Computacionales - Tesjo">
+  <a href="https://tesjo.edomex.gob.mx">
+    <img src="tesjo.png" alt="Logo de Ing en Sistemas Computacionales - Tesjo">
+  </a>
 </p>
 
 # Ing en Sistemas Computacionales - Tesjo
@@ -24,7 +26,7 @@ Mac os Sonoma 14.5
 
 [![Logo3](https://github.com/Cobain21Jose/METODOS-NUMERICOS---Simulaci-n-de-Evoluci-n-Clim-tica-Modelo-de-Temperatura-y-Humedad-Relativa/blob/main/macossonoma.png)](https://www.apple.com/mx/macos/sonoma/)
 
-## Hadware
+## Hadware del Equipo
 <p align="center">
   <img src="hadware.png" alt="Hadware del equipo">
 </p>
@@ -34,6 +36,6 @@ Mac os Sonoma 14.5
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/tu-repositorio.git
+   git clone https://github.com/Cobain21Jose/METODOS-NUMERICOS---Simulaci-n-de-Evoluci-n-Clim-tica-Modelo-de-Temperatura-y-Humedad-Relativa.git
 
 
