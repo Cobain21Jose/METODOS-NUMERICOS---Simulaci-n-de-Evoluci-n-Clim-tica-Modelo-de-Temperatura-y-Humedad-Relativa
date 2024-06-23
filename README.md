@@ -3,7 +3,6 @@ Este programa simula la evolución de la temperatura y la humedad relativa en un
 
 [![Logo1](https://github.com/Cobain21Jose/METODOS-NUMERICOS---Simulaci-n-de-Evoluci-n-Clim-tica-Modelo-de-Temperatura-y-Humedad-Relativa/blob/main/isc.png)](https://github.com/Cobain21Jose/METODOS-NUMERICOS---Simulaci-n-de-Evoluci-n-Clim-tica-Modelo-de-Temperatura-y-Humedad-Relativa)
 [![Logo2](https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg)](https://www.python.org/downloads/)
-[![Logo3](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/MacOS_Big_Sur_Desktop.png/320px-MacOS_Big_Sur_Desktop.png)](https://www.apple.com/macos/sonoma/)
 
 # Simulación de Evolución Climática
 
@@ -13,6 +12,10 @@ Este proyecto simula la evolución de la temperatura y la humedad relativa en un
 
 - Python (probado en Python 3.7+)
 - Bibliotecas: numpy, matplotlib
+
+## Sistema Utilizado para la creacion de este proyecto
+- Mac os Sonoma 14.5
+[![Logo3](https://upload.wikimedia.org/wikipedia/commons/8/8d/MacOS_Sonoma_-_logo.svg)](https://www.apple.com/mx/macos/sonoma/)
 
 ## Instalación
 
