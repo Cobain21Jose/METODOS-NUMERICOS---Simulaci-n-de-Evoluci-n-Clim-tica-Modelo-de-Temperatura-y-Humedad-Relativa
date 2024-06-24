@@ -108,7 +108,11 @@ Aplicación: Simulaciones ayudan a prever y mantener las condiciones necesarias 
 En este ejercicio, podemos observar cómo evolucionan la temperatura y la humedad relativa en un entorno específico a lo largo de un día. Utilizando el método de Euler, podemos resolver el sistema de ecuaciones diferenciales y predecir los cambios en el clima. Los resultados muestran una disminución inicial de la humedad relativa, seguida de un aumento gradual. La temperatura aumenta rápidamente al inicio y luego se estabiliza alrededor de los 23°C. Este tipo de análisis es crucial para entender y prever condiciones climáticas en distintos entornos.
 
 # Explicacion en YouTube
-[![Logo9](https://github.com/Cobain21Jose/METODOS-NUMERICOS---Simulaci-n-de-Evoluci-n-Clim-tica-Modelo-de-Temperatura-y-Humedad-Relativa/blob/main/youtube.png)](https://github.com/Cobain21Jose/METODOS-NUMERICOS---Simulaci-n-de-Evoluci-n-Clim-tica-Modelo-de-Temperatura-y-Humedad-Relativa)
+[![Logo9](https://github.com/Cobain21Jose/METODOS-NUMERICOS---Simulaci-n-de-Evoluci-n-Clim-tica-Modelo-de-Temperatura-y-Humedad-Relativa/blob/main/youtube.png)](https://www.youtube.com/watch?v=_QXeYHNZCws)
+
+# Video: Metodos Numéricos - Simulación de Evolución Climática (Metodo de Euler)
+[![Watch the video](https://img.youtube.com/vi/_QXeYHNZCws/0.jpg)](https://www.youtube.com/watch?v=_QXeYHNZCws)
+
 
 ## Instalación en Terminal
 
